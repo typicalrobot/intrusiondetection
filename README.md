@@ -1,7 +1,7 @@
 # intrusiondetection
 Raspberry Pi based intrusion detection system with email notification including webcam and PIR sensor. <br>
-# To prepare the pie use these commands in the terminal
-Step 1: sudo apt-get install python-picamera
+# To prepare the pie use these commands in the terminal <br>
+Step 1: sudo apt-get install python-picamera <br>
 Step 2: sudo apt-get update
 Step 3: sudo apt-get upgrade
 Reboot the system
