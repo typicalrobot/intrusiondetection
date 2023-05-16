@@ -20,11 +20,11 @@ from email.mime.image import MIMEImage
 
  
 
-fromaddr = "amisra11@asu.edu"    # change the email address accordingly
+fromaddr = "youremail@asu.edu"    # change the email address accordingly
 
-toaddr = "anushree9830@gmail.com"
+toaddr = "sendtoemail@gmail.com"
 
-username = 'anushree9830@gmail.com'
+username = 'your email username'
 password = '********************'
 
  
